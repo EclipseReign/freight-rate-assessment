@@ -1,4 +1,3 @@
-"""Leakage-safe freight models. All fitted preprocessing uses training rows only."""
 from __future__ import annotations
 
 import numpy as np
