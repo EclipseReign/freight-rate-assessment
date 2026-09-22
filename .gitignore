@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+tmp/
+assessment-preview.png
+# Supplied assessment material: distribute only with the owner's permission.
+train-test.csv
+validation.csv
+validation-predictions-template.csv
+december-chart-inputs.csv
+freight-rate-ml-assessment.pdf
+# Binary estimators are reproducible with train_predict.py.
+artifacts/*.joblib
+# Per-row diagnostics contain supplied development labels; keep them local.
+artifacts/holdout_*.csv
+!artifacts/holdout_metrics.csv

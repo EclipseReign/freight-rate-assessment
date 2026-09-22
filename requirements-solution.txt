@@ -1,0 +1,9 @@
+# Exact versions used for the submitted run (Python 3.14).
+numpy==2.3.4
+pandas==2.3.3
+scipy==1.17.1
+scikit-learn==1.8.0
+catboost==1.2.10
+matplotlib==3.10.8
+reportlab==4.4.10
+joblib==1.5.3

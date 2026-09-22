@@ -1,0 +1,28 @@
+{
+  "seed": 42,
+  "python": "3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)]",
+  "input_sha256": {
+    "train-test.csv": "892980fd20bac7ac0ca4ec31d3981fca48d52dec88e4f02642ab955f1efb40fe",
+    "validation.csv": "f6cdc7c367b397b90b319fc7ad30fd0e1893fd6a714816dda54c303b0fe71151",
+    "validation-predictions-template.csv": "79de15adabcf807b8636b9b47ebe964d451fbcb343056c44a2c4b54a219891c6",
+    "december-chart-inputs.csv": "d4a0cba969e315eae3c967268914960547dc6589568e07bf6182551bdc267e6e",
+    "score.py": "8da8b6bf3e39078f34c9998d14dcca4f7aa64ad5ddea1ce4449cd362168d2a28",
+    "freight-rate-ml-assessment.pdf": "26c30f73c44fa6306c7bd2b8aa1dfc04b34ab044f6d122b2e6ccd634184ffd69",
+    "readme.md": "dfc6ccd4843ed1c07e9d9ad131e23e755039fbe2f6e644a92677979a08c04028",
+    "requirements.txt": "38523b081dfb40d36c12b1af29e6029023dbf0ceab7c55bd01ced7be3cb0f9ac"
+  },
+  "versions": {
+    "numpy": "2.3.4",
+    "pandas": "2.3.3",
+    "scipy": "1.17.1",
+    "scikit-learn": "1.8.0",
+    "catboost": "1.2.10",
+    "matplotlib": "3.10.8",
+    "reportlab": "4.4.10",
+    "joblib": "1.5.3"
+  },
+  "selected_models": {
+    "primary": "robust_ridge_simple_core",
+    "core": "robust_ridge_simple_core"
+  }
+}
