@@ -1,4 +1,3 @@
-"""Refit frozen model choices on all development data and create submission files."""
 import hashlib
 import json
 from pathlib import Path
