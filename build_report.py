@@ -1,4 +1,3 @@
-"""Build the English submission report and auditable dataset diagnostics."""
 import json
 from pathlib import Path
 import numpy as np
