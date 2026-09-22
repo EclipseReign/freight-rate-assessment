@@ -1,4 +1,3 @@
-"""Focused regression checks for leakage boundaries and submission correctness."""
 import json
 from pathlib import Path
 import unittest
