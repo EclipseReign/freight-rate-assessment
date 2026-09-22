@@ -1,4 +1,3 @@
-"""Chronological model selection, then one untouched September-October holdout."""
 import json
 from pathlib import Path
 import pandas as pd
